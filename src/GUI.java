@@ -8,6 +8,5 @@ public class GUI {
 		JF1.setVisible(true);
 		JF1.setSize(400,600);
 		JF1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-	}
-	public void max(){}
+	}	
 }
